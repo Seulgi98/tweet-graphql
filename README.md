@@ -1,2 +1,3 @@
 # tweet-graphql
-graphQL API 연습
+
+graphQL API 연습 중..
